@@ -26,28 +26,23 @@ Presentation
     }
 
     ImageSlide {
-        src: "slide01.png"
+        src: "slide1.png"
     }
 
     ImageSlide {
-        src: "slide02.png"
+        src: "slide2.png"
     }
 
     ImageSlide {
-        src: "slide03.png"
+        src: "slide3.png"
     }
 
     ImageSlide {
-        src: "slide04.png"
+        src: "slide4.png"
     }
 
     ImageSlide {
-        src: "slide05.png"
+        src: "slide5.png"
     }
-
-    ImageSlide {
-        src: "slide06.png"
-    }
-
 
 }

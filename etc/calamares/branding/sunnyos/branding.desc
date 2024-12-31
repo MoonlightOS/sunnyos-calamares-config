@@ -1,0 +1,42 @@
+---
+componentName:  SunnyOS
+
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    fullscreen
+
+windowPlacement: center
+
+sidebar: none
+
+navigation: widget
+
+strings:
+    productName:         SunnyOS
+    shortProductName:    SunOS
+    version:             beta
+    shortVersion:        s-beta
+    versionedName:       stable-beta
+    shortVersionedName:  SunnyOS
+    bootloaderEntryName: SunnyOS
+
+images:
+    productIcon:            "logo.png"
+    productLogo:            "icon.png"
+    productWelcome:         "welcome.png"
+
+style:
+   sidebarBackground:       "#FFFFFF"
+   sidebarText:             "#333429"
+   sidebarTextSelect:       "#ffffff"
+   sidebarTextHighlight:    "#fce303"
+
+slideshow:               "show.qml"
+
+slideshowAPI: 2
+
+uploadServer :
+    type :    "fiche"
+    url :     "http://termbin.com:9999"

@@ -1,5 +1,5 @@
 ---
-componentName: sunnyinstall
+componentName: moonlinstall
 
 welcomeStyleCalamares:   false
 
@@ -14,13 +14,13 @@ sidebar: none
 navigation: widget
 
 strings:
-    productName:         SunnyOS
-    shortProductName:    SunOS
-    version:             beta
-    shortVersion:        s-beta
-    versionedName:       stable-beta
-    shortVersionedName:  SunnyOS
-    bootloaderEntryName: SunnyOS
+    productName:         MoonlightOS
+    shortProductName:    MoonLight
+    version:             preview
+    shortVersion:        prerelease-preview
+    versionedName:       isocel
+    shortVersionedName:  MoonlightOS
+    bootloaderEntryName: MoonlightOS
 
 images:
     productIcon:            "logo.png"

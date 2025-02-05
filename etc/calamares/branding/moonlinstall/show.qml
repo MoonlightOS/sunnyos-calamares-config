@@ -29,20 +29,4 @@ Presentation
         src: "slide1.png"
     }
 
-    ImageSlide {
-        src: "slide2.png"
-    }
-
-    ImageSlide {
-        src: "slide3.png"
-    }
-
-    ImageSlide {
-        src: "slide4.png"
-    }
-
-    ImageSlide {
-        src: "slide5.png"
-    }
-
 }
